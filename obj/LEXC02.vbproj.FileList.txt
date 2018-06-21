@@ -1,0 +1,13 @@
+C:\TMIS\LEXC02.resx
+C:\TMIS\LEXC02.Designer.vb
+C:\TMIS\LEXC02.vb
+C:\TMIS\LEXC02.dll
+C:\TMIS\LEXC02.pdb
+C:\TMIS\LEXC02.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LEXC02.LEXC02.resources
+obj\Release\LEXC02.Resources.resources
+obj\Release\LEXC02.vbproj.GenerateResource.Cache
+obj\Release\LEXC02.dll
+obj\Release\LEXC02.xml
+obj\Release\LEXC02.pdb
